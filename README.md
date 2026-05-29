@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Muhammad Riyanto 👋
 
 <!--
 **Riyanto08/Riyanto08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **PT Sukanda Djaya**
+- 🌱 I’m currently learning **SQL**, **Python**, **Power BI**, and **Tableau**
+
+![Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l5MXF2anA5dmZ3MWNjdW96djlweHI1eXZkZTN4ZWY2bTQxeWh5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
